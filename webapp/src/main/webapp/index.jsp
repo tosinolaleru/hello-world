@@ -17,7 +17,7 @@
     <br>
 
     <label for="address"><b>Enter Address</b></label>
-    <input type="text" placeholder="Enter Work  Address" name="address" id="address" required>
+    <input type="text" placeholder="Enter Office Address" name="address" id="address" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
