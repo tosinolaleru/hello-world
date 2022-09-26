@@ -39,7 +39,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning From Anna DevOps Guru </h1>
+   <h1> Thankyou, Happy Learning From Anna DevOps Engineer </h1>
 
   
 </form>
