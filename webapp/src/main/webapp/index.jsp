@@ -44,7 +44,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning From Anna Olaleru DevOps Engineer </h1>
+   <h1> Thank you, All The Best From Anna Olaleru DevOps Engineer </h1>
 
   
 </form>
