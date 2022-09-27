@@ -21,7 +21,7 @@
     <input type="text" placeholder="Enter Home Address" name="address" id="address" required>
     <br>
 
-    <label for="address"><b>Enter Address</b></label>
+    <label for="address"><b>Enter Office Address</b></label>
     <input type="text" placeholder="Enter Office Address" name="address" id="address" required>
     <br>
 
@@ -44,7 +44,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Wish You All The Best From Anna Olaleru DevOps Engineer </h1>
+   <h1> Thank you, Wish You The Best From Anna Olaleru DevOps Engineer </h1>
 
   
 </form>
