@@ -44,7 +44,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Fantastic! Best Regards!We Wish You All The Very Best Of Success From Anna Olaleru DevOps Engineer </h1>
+   <h1>Fantabulous Superb! Best Regards!We Wish You All The Very Best Of Success From Anna Olaleru DevOps Engineer </h1>
 
   
 </form>
